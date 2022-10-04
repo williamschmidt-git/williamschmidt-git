@@ -4,7 +4,7 @@ Estou estudando desenvolvimento web na Trybe com intuito de iniciar minha carrei
 
 <div align="center">
   <a href="https://github.com/williamschmidt-git">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[williamschmidt-git]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamschmidt-git&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamschmidt-git&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
